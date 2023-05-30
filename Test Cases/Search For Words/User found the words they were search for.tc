@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User found the words they were search for</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3551dc6e-1713-4d2b-a272-6df16e10ccf6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ab00b55-72ce-43c3-8c7d-7e4d92696df6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Archive Test'</defaultValue>
+      <description></description>
+      <id>0ab00b55-72ce-43c3-8c7d-7e4d92696df6</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+</TestCaseEntity>

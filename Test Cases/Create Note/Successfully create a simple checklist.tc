@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully create a simple checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e14346c-1896-4f76-a27a-7966a2395f61</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0af2f601-3e52-46fc-a856-4f75d3c4322b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14e1377c-71e7-462c-8d76-02997f426f43</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Honey'</defaultValue>
+      <description></description>
+      <id>0af2f601-3e52-46fc-a856-4f75d3c4322b</id>
+      <masked>false</masked>
+      <name>itemNameOne</name>
+   </variable>
+   <variable>
+      <defaultValue>'Water'</defaultValue>
+      <description></description>
+      <id>14e1377c-71e7-462c-8d76-02997f426f43</id>
+      <masked>false</masked>
+      <name>itemNameTwo</name>
+   </variable>
+</TestCaseEntity>

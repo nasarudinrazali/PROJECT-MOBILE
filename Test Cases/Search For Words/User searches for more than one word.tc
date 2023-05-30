@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User searches for more than one word</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7008f3ec-de28-4801-b4d0-ef18d2daf2b3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4580a34-d0d7-4ad3-8a57-cac8c20cfb23</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9a83bac-2f17-45fe-a972-0e7712e242d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Set Reminder'</defaultValue>
+      <description></description>
+      <id>d4580a34-d0d7-4ad3-8a57-cac8c20cfb23</id>
+      <masked>false</masked>
+      <name>wordOne</name>
+   </variable>
+   <variable>
+      <defaultValue>'Archive Test'</defaultValue>
+      <description></description>
+      <id>c9a83bac-2f17-45fe-a972-0e7712e242d2</id>
+      <masked>false</masked>
+      <name>wordTwo</name>
+   </variable>
+</TestCaseEntity>
